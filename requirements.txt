@@ -1,0 +1,5 @@
+python-dotenv
+langchain
+panel
+tiktoken
+openai
